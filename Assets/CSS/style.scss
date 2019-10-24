@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{site.theme}}";
 
 @import url("https://fonts.googleapis.com/css?family=Questrial&display=swap");
@@ -5,7 +8,7 @@
 @import url("https://fonts.googleapis.com/css?family=Francois+One&display=swap");
 
 body {
-  font-family: "Questrial", sans-serif;
+  font-family: "Questrial";
 }
 
 h1,
@@ -16,4 +19,8 @@ h5,
 h6 {
   font-family: "Francois+One", sans-serif;
   color: #424242;
+}
+
+h2 {
+  background: transparent;
 }
