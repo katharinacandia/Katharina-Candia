@@ -1,5 +1,3 @@
-#
-
 ![Das Management](2.jpg)
 
 Alle Branchen werden aktuell von neuen Unternehmen, Produkten,
