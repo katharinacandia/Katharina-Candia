@@ -2,6 +2,8 @@
 
 # Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?
 
+! [Das Management](2.jpg)
+
 Alle Branchen werden aktuell von neuen Unternehmen, Produkten,
 Dienstleistungen und unterschiedlichen Formen von Innovationen
 durchdrungen. Während in den vergangenen zwanzig Jahren
