@@ -131,4 +131,7 @@ selbst zu widmen.
 
 ## Referenzen
 
-[Arabella Advisors (2018)] Global Divestment Report 2018
+[Arabella Advisors (2018)] Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
+[Edelman (2017)] Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
+[Erdman (2013)] Anja Erdmann (2013): Städtische Transformationsprozesse in Mittel- und Osteuropa: Stadtentwicklung zwischen Wachstum und Schrumpfung am Beispiel von Łódź und Gdańsk, Springer-Verlag, S.81.
+[Eurosif (2018)] Eurosif (2018): European SRI 2018 Study, in: http://www.eurosif.org/wp-content/uploads/2018/11/European-SRI-2018-Study-LR.pdf (04.10.2019)
