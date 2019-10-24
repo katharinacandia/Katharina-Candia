@@ -1,4 +1,8 @@
-# Mein geniales Paper
+# Mein Paper in Digitales Management, Oktober 2019
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+</style>
 
 # Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?
 
