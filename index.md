@@ -131,7 +131,10 @@ selbst zu widmen.
 
 ## Referenzen
 
-[Arabella Advisors (2018)] Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
-[Edelman (2017)] Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
-[Erdman (2013)] Anja Erdmann (2013): Städtische Transformationsprozesse in Mittel- und Osteuropa: Stadtentwicklung zwischen Wachstum und Schrumpfung am Beispiel von Łódź und Gdańsk, Springer-Verlag, S.81.
-[Eurosif (2018)] Eurosif (2018): European SRI 2018 Study, in: http://www.eurosif.org/wp-content/uploads/2018/11/European-SRI-2018-Study-LR.pdf (04.10.2019)
+1 [Arabella Advisors (2018)] Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
+2 [Edelman (2017)] Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
+3 [Erdman (2013)] Anja Erdmann (2013): Städtische Transformationsprozesse in Mittel- und Osteuropa: Stadtentwicklung zwischen Wachstum und Schrumpfung am Beispiel von Łódź und Gdańsk, Springer-Verlag, S.81.
+4 [Eurosif (2018)] Eurosif (2018): European SRI 2018 Study, in: http://www.eurosif.org/wp-content/uploads/2018/11/European-SRI-2018-Study-LR.pdf (04.10.2019)
+5 [Tagesschau (2019)] Tagesschau (2019): Millionen fürs Klima, in: https://www.tagesschau.de/inland/klimastreiks-friday-for-future-105.html (13.10.2019)
+6 Wunder (2017) Thomas Wunder (2017): CSR und Strategisches Management. Wie man mit
+Nachhaltigkeit langfristig im Wettbewerb gewinnt, Springer-Verlag, S.4.
