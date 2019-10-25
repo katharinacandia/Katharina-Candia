@@ -1,4 +1,4 @@
-# _Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?_
+# Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?
 
 ![Das Management](2.jpg)
 
@@ -34,13 +34,13 @@ Studie von Edelman aus dem Jahr 2017 weist auf, dass 52 Prozent der
 Verbraucher in Deutschland eine Marke aufgrund ihrer Position zu
 gesellschaftlich relevanten Themen kaufen oder boykottieren. Außerdem
 geben 26 Prozent der Deutschen an, dass sie Kauf- oder
-Boykottentscheidungen heute häufiger treffen als noch vor drei Jahren1 –
+Boykottentscheidungen heute häufiger treffen als noch vor drei Jahren –
 der Trend steigt. Auch Investoren verlangen eine Positionierung seitens
 der Geschäftsführungen. Immer mehr Investoren wechseln den Kurs:
 allein das gesamte Volumen an nachhaltigen Investments ist zwischen
 2009 und Ende 2011 mit 35% stärker gewachsen, als der gesamte
-Kapitalmarkt.2 Zusätzlich haben sich institutionelle und private Investoren mit einem Vermögen von 6,24 Billionen US-Dollar verpflichtet, sich von
-fossilen Brennstoffen zu trennen.3 Der Druck liegt auf dem strategischen
+Kapitalmarkt. Zusätzlich haben sich institutionelle und private Investoren mit einem Vermögen von 6,24 Billionen US-Dollar verpflichtet, sich von
+fossilen Brennstoffen zu trennen. Der Druck liegt auf dem strategischen
 Management, welches Entscheidungen darüber treffen muss, in welche
 Richtung das Unternehmen langfristig gesteuert werden soll. In der
 Debatte um die Bewältigung von sozialen und ökologischen Problemen
@@ -51,7 +51,7 @@ absolute Befürwortung, aus der ein progressiver Veränderungsprozess
 eingeläutet wird. In diesem Jahr ist eine Art Dringlichkeit entstanden, die
 sichtbar ist: Im September fand der weltweite größte Klimastreik statt, mit
 Protestanten in über 150 Ländern. Allein in Deutschland waren es mehr
-als 1,4 Millionen Demonstranten.4
+als 1,4 Millionen Demonstranten.
 
 Die Entscheidung, als Unternehmen nachhaltiger zu agieren, eröffnet eine
 unüberschaubare Vielzahl an möglichen Veränderungsprozessen,
@@ -69,7 +69,7 @@ ausgestaltet werden soll.
 Die ‚Revitalisierung‘ ist ein Begriff, welcher neben der Ethnologie auch
 beim Städtebau verwendet wird und eine Sanierungsmaßnahme
 beschreibt, bei der historische Bausubstanz so umgestaltet wird, dass
-eine zeitgemäße Nutzung erfolgen kann.5 Wenn man aus der
+eine zeitgemäße Nutzung erfolgen kann. Wenn man aus der
 kommunizierten Dringlichkeit seitens der Wissenschaft in Bezug auf die
 ökologischen Belastungsgrenzen und der allgemeinen Aufmerksamkeit
 der Gesellschaft nach der Notwendigkeit neuer Rahmenbedingungen für
@@ -131,9 +131,9 @@ selbst zu widmen.
 
 ## Referenzen
 
-- 1 Arabella Advisors (2018): Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
-- 2 Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
-- 3 Erdman (2013): Städtische Transformationsprozesse in Mittel- und Osteuropa: Stadtentwicklung zwischen Wachstum und Schrumpfung am Beispiel von Łódź und Gdańsk, Springer-Verlag, S.81.
-- 4 Eurosif (2018): European SRI 2018 Study, in: http://www.eurosif.org/wp-content/uploads/2018/11/European-SRI-2018-Study-LR.pdf (04.10.2019)
-- 5 Tagesschau (2019): Millionen fürs Klima, in: https://www.tagesschau.de/inland-klimastreiks-friday-for-future-105.html (13.10.2019)
-- 6 Wunder (2017): CSR und Strategisches Management. Wie man mit Nachhaltigkeit langfristig im Wettbewerb gewinnt, Springer-Verlag, S.4.
+- Arabella Advisors (2018): Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
+- Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
+- Erdman (2013): Städtische Transformationsprozesse in Mittel- und Osteuropa: Stadtentwicklung zwischen Wachstum und Schrumpfung am Beispiel von Łódź und Gdańsk, Springer-Verlag, S.81.
+- Eurosif (2018): European SRI 2018 Study, in: http://www.eurosif.org/wp-content/uploads/2018/11/European-SRI-2018-Study-LR.pdf (04.10.2019)
+- Tagesschau (2019): Millionen fürs Klima, in: https://www.tagesschau.de/inland-klimastreiks-friday-for-future-105.html (13.10.2019)
+- Wunder (2017): CSR und Strategisches Management. Wie man mit Nachhaltigkeit langfristig im Wettbewerb gewinnt, Springer-Verlag, S.4.
