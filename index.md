@@ -139,3 +139,5 @@ selbst zu widmen.
 - Wunder (2017): CSR und Strategisches Management. Wie man mit Nachhaltigkeit langfristig im Wettbewerb gewinnt, Springer-Verlag, S.4.
 
 _Eine Arbeit von Katharina Candia Avendaño, Masterstudentin an der Cologne Business School, 2019._
+
+![Profilbild](1.JPG)
