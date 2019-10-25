@@ -1,4 +1,4 @@
-# Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?
+# **Die Debatte um Nachhaltigkeit als Anstoß zur Revitalisierung des strategischen Managements?**
 
 ![Das Management](2.jpg)
 
