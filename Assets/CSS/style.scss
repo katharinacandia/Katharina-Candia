@@ -3,11 +3,17 @@
 
 @import "{{ site.theme }}";
 
+@import "path/to/fluid-type-mixin";
+.title {
+  @include fluid-type(28px, 52px);
+}
+.body {
+  @include fluid-type(14px, 20px);
+}
+
 @import url("https://fonts.googleapis.com/css?family=Questrial&display=swap");
 
-@import url("https://fonts.googleapis.com/css?family=Francois+One&display=swap");
-
-body {
+.body {
   font-family: "Questrial";
   color: #424242;
 }
@@ -18,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Francois+One";
+  font-family: "Questrial";
   color: #190707;
 }
 
