@@ -82,7 +82,7 @@ strategische Leitbild des Unternehmens ist und inwiefern sich die
 Anforderungen der relevanten Stakeholder verändern. Hieraus ergeben
 sich die Fragen nach der Beständigkeit der traditionellen
 Wettbewerbsvorteile und den potenziellen Wettbewerbsnachteilen,
-wenn Innovationspotenzial oder neue Marktsegmente zu spät identifiziert und ergriffen werden.6 Hier ist auch zu beachten, dass die Transparenz
+wenn Innovationspotenzial oder neue Marktsegmente zu spät identifiziert und ergriffen werden. Hier ist auch zu beachten, dass die Transparenz
 über unternehmerische Tätigkeiten auch das nähere Geschäftsumfeld
 des jeweiligen Unternehmen beinhaltet. Dementsprechend sind auch die
 Geschäftsbeziehungen neu zu evaluieren, da sich das Image der
