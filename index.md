@@ -2,7 +2,6 @@
 
 ![Das Management](2.jpg)
 
-<body>
 Alle Branchen werden aktuell von neuen Unternehmen, Produkten,
 Dienstleistungen und unterschiedlichen Formen von Innovationen
 durchdrungen. Während in den vergangenen zwanzig Jahren
@@ -129,8 +128,6 @@ werden können und die Standards steigen. Spätestens jetzt ist ein guter
 Zeitpunkt, wo das strategische Management die Chance ergreifen sollte,
 sich der Revitalisierung seiner Unternehmung und damit auch seiner
 selbst zu widmen.
-
-</body>
 
 ## Referenzen
 
