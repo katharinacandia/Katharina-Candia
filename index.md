@@ -129,7 +129,7 @@ Zeitpunkt, wo das strategische Management die Chance ergreifen sollte,
 sich der Revitalisierung seiner Unternehmung und damit auch seiner
 selbst zu widmen.
 
-## Referenzen
+## **Referenzen**
 
 - Arabella Advisors (2018): Global Divestment Report, in: https://www.arabellaadvisors.com/wp-content/uploads/2018/09/Global-Divestment-Report-2018.pdf (13.10.2019)
 - Edelman (2017): Markenstudie, in: https://www.edelman.de/newsroom/studieninsights/markenstudie-konsumenten-entscheiden-wertegetrieben/ (02.10.2019)
