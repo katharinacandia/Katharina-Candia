@@ -140,4 +140,4 @@ selbst zu widmen.
 
 _Eine Arbeit von Katharina Candia Avendaño, Masterstudentin an der Cologne Business School, 2019._
 
-![Profilbild](1.JPG)
+![Profilbild](1.JPG=50x50)
