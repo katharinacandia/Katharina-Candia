@@ -138,6 +138,6 @@ selbst zu widmen.
 - Tagesschau (2019): Millionen fürs Klima, in: https://www.tagesschau.de/inland-klimastreiks-friday-for-future-105.html (13.10.2019)
 - Wunder (2017): CSR und Strategisches Management. Wie man mit Nachhaltigkeit langfristig im Wettbewerb gewinnt, Springer-Verlag, S.4.
 
-<img src="AfterlightImage Kopie.JPG.jpg" width="80" height="80"/>
+<img src="AfterlightImage Kopie.JPG.jpg" width="150" height="150"/>
 
 _Eine Arbeit von Katharina Candia Avendaño, Masterstudentin an der Cologne Business School, 2019._
